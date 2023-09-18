@@ -1,0 +1,1 @@
+INSERT INTO tbl_board( title, content, name) VALUES ('제목', '내용', '이름')
